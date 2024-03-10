@@ -28,7 +28,7 @@ public class UserJDBCTemplate implements AudienceDAO {
 		// TODO Auto-generated method stub
 		
 	}
-	
+	// Usernames and passwords in database
 	public Integer login(String name, String password) {
 		String SQL;
 		try {
